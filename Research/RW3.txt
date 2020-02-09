@@ -1,0 +1,20 @@
+Picture 2:on:Floor
+Picture 1:on:North Wall
+Cardbox 1:on:Blue Chair 1
+Blue Chair 1:on:Table
+Table:on:Floor
+Yellow Book 1:on:Blue Chair 2
+Green Book 2:on:Red Book 2
+Red Book 2:on:Bookshelf2
+Yellow Book 1:below:Table
+Yellow Book 2:below:Table
+Table:near:North Wall
+Glass:near:Bookshelf 2
+Coffee Table:between:Sofa 1: Sofa 2
+Coffee Table:on:floor
+Red Book 1:on:Bookshelf 1
+Green Book 1:on:Bookshelf 1
+Cardbox 2:on:Sofa 1
+Laptop:on:Cardbox 2
+Sofa 1:near:West Wall
+Sofa 2:near:East Wall

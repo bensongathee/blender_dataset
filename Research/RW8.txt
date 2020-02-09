@@ -1,0 +1,21 @@
+bed1:near:West Wall
+Sofa:next to:East Wall
+Sofa:left of:East Wall
+Bookshelf 2:near:East Wall:North Wall
+Bookshelf 1:near:West Wall:North Wall:Fridge
+Bookshelf 1:right of:West Wall
+Bookshelf 2:left of:East Wall
+bed1:east of:West Wall
+Cardbox 1:below:Table
+Table:between:Blue Chair 1:Blue Chair 2
+Blue Chair 1:beside:Table
+Blue Chair 2:beside:Table
+Cardbox 1:on:Blue Chair 1
+Yellow Book 2:on:Table
+Laptop:on:Table
+Table:between:bed1:Sofa
+Fridge:between:Bookshelf 1:Desk
+Desk:between:Fridge:Bookshelf 2
+picture 1:between:Fridge:Bookshelf 2
+picture 1:on:North Wall
+picture 2:on:East Wall

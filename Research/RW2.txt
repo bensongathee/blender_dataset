@@ -1,0 +1,20 @@
+TV 2:on:Desk 2
+Banana 2:on:Desk 2
+Laptop 2:on:Desk 2
+Desk 2:on:Floor
+Banana 1:in:Bowl
+Red Chair 1:beside:Bookshelf 3
+Red Book 3:below:Desk 1
+Desk 1:below:Ceiling fan
+Book shelf 3:in front of:Book shelf 2
+Desk 2:in front of:Book shelf 1
+Pencil Holder:on:Desk 1
+Blue Chair 1:near:Bookshelf 1
+Green Book 1:on:Red Chair 1
+Trash Can:under:Red Chair 2
+Yellow Book 1:on:Bookshelf 2
+Red Chair 2:between:Desk 1 and the Desk 2
+Pencil 2:on:Desk 1
+Green Book 2:on:Bookshelf 1
+Note 1:on:Bookshelf 2
+Blue Chair 2:in front of:Desk 1

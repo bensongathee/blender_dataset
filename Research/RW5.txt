@@ -1,0 +1,23 @@
+bed1:near:West Wall
+cardbox:on:bed1
+Blue Chair 2:next to:Desk 1
+Note 2:on:Blue Chair 2
+Laptop 1:on:Deks 1
+Green Book 1:on:Desk 1
+Red Book 2:on:Green Book 1
+Note 1:on:Red Book 2
+picture1:on:bed2
+Bowl:on:Floor
+Banana 1:in:Bowl
+Banana 1:under:bed2
+Bowl:under:bed2
+Blue Chair 1:on:bed2
+Yellow Book 2:on:Desk 1
+Pencil Holder:near:North Wall
+Banana 2:on:Cardbox
+Bed 2:between:Desk 1:Bookshelf 1
+TV:next to:Laptop 2
+Red Chair 2:next to:Desk 2
+Laptop 2:on:Desk 2
+Bookshelf 1:near:North Wall:East Wall
+Red Book 1:on:Bookshelf 1
