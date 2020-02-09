@@ -1,0 +1,20 @@
+Note:in:Trash Can
+Trash Can:beside:Desk
+Trash Can:between:Desk:bed1
+Sofa:near:East Wall
+bed1:near:North Wall:East Wall
+Red Chair:beside:Desk
+TV:on:Desk
+Laptop:on:Desk
+Banana:on:Desk
+Desk:between:Bookshelf:bed1
+Blue Chair:beside:bed2:Bookshelf
+Bookshelf:near:West Wall
+bed2:right of:West Wall
+Fridge:next to:West Wall
+Fridge:near:bed2
+Ceiling Fan:between:Ceiling Light 1:Ceiling Light 2
+TV:near:North Wall
+Table:below:Ceiling Fan
+Table:between:Sofa:bed2
+Desk:in front of:Table
