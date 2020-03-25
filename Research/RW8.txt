@@ -18,4 +18,12 @@ Fridge:between:Bookshelf 1:Desk
 Desk:between:Fridge:Bookshelf 2
 picture 1:between:Fridge:Bookshelf 2
 picture 1:on:North Wall
+Red Book 1:on:Bookshelf 1
+Green Book 1:on:Bookshelf 1
+Bookshelf 2:infront of:North Wall
+Blue Chair 1:on:Floor
+Blue Chair 2:on:Floor
+Ceiling Light 1:on:Ceiling
+Ceiling Light 2:on:Ceiling
+Ceiling Fan:on:Ceiling
 picture 2:on:East Wall

@@ -6,6 +6,14 @@ Banana 1:in:Bowl
 Red Chair 1:beside:Bookshelf 3
 Red Book 3:below:Desk 1
 Desk 1:below:Ceiling fan
+Red Book 1:on:Bookshelf 1
+Green Book 1:on:Bookshelf 1
+Bookshelf 2:infront of:North Wall
+Blue Chair 1:on:Floor
+Blue Chair 2:on:Floor
+Ceiling Light 1:on:Ceiling
+Ceiling Light 2:on:Ceiling
+Ceiling Fan:on:Ceiling
 Book shelf 3:in front of:Book shelf 2
 Desk 2:in front of:Book shelf 1
 Pencil Holder:on:Desk 1

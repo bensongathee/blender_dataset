@@ -1,6 +1,14 @@
 Cardbox 2:below:Table
 Cardbox 2:on:Floor
 laptop:on:Table
+Red Book 1:on:Bookshelf 1
+Green Book 1:on:Bookshelf 1
+Bookshelf 2:infront of:North Wall
+Blue Chair 1:on:Floor
+Blue Chair 2:on:Floor
+Ceiling Light 1:on:Ceiling
+Ceiling Light 2:on:Ceiling
+Ceiling Fan:on:Ceiling
 Blue Chair 2:beside:Table
 Red Book 2:on:Bookshelf 2
 Green Book 2:on:Red Book 2
@@ -13,7 +21,7 @@ Red Book 1:on:Bookshelf 1
 Green Book 1:on:Bookshelf 1
 Bookshelf 2:infront of:North Wall
 Blue Chair 1:on:Floor
-Blue Chair 2:on:Floor 
+Blue Chair 2:on:Floor
 Ceiling Light 1:on:Ceiling
 Ceiling Light 2:on:Ceiling
 Ceiling Fan:on:Ceiling
