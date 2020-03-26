@@ -1,12 +1,22 @@
 bed1:near:East Wall:North Wall
+bed1:left of:bed2
+bed1:left of:bed3
 bed2:between:bed1:bed2
+bed2:left of:bed3
+bed2:right of:bed1
+bed3:right of:bed2
+bed3:right of:bed1
 Blue Chair 1:between:bed2:bed3
+Blue Chair 1:left of:bed3
+Blue Chair 1:right of:bed2
+Blue Chair 2:beside:Desk
 Picture 2:on:floor
 Picture 2:near:bed3
-Table:between:Brown Chair 1:Brown Chair 2
-Blue Chair 2:beside:Desk
+Picture 2:near:bed3
 Picture 1:next to:Desk
 Picture 1:between:Desk:bed1
+Picture 1:on:Floor
+Table:between:Brown Chair 1:Brown Chair 2
 Rose_flower:on:desk
 Laptop:on:Desk
 Fridge:right of:West Wall
@@ -16,14 +26,6 @@ Desk:between:Bookshelf:bed1
 Green Book 1:on:Bookshelf
 Green Book 2:on:Red Book 2
 Red Book 2:on:shelf
-Red Book 1:on:Bookshelf 1
-Green Book 1:on:Bookshelf 1
-Bookshelf 2:infront of:North Wall
-Blue Chair 1:on:Floor
-Blue Chair 2:on:Floor
-Ceiling Light 1:on:Ceiling
-Ceiling Light 2:on:Ceiling
-Ceiling Fan:on:Ceiling
 Red Book 1:on:shelf
 Yellow Book 2:on:Desk
 Yellow Book 1:on:Bookshelf
